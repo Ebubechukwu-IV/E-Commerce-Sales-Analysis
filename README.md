@@ -15,13 +15,6 @@ The analysis covers 360 orders, 40 products, and 115 active customers across the
 
 ---
 
-## Dashboard Preview
-
-[Executive Summary]
-[Why & How]
-[Drill Down]
-
----
 
 ## Business Questions Answered
 
