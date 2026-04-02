@@ -1,4 +1,8 @@
-# E-Commerce Sales Analytics
+## Project Overview
+
+This project analyses a retail e-commerce dataset to uncover revenue trends, product performance, and market insights across four countries. It is the first project in my public data analytics portfolio, built as part of my transition from Warehouse Operations into Data Analytics.
+
+The analysis covers 360 orders, 40 products, and 115 active customers across the UK, US, Canada, and India — using Excel for data preparation and Power BI for interactive visualisation.
 
 **Tools:** Microsoft Excel · Power BI
 **Dataset:** Kaggle E-Commerce Practice Dataset
@@ -10,12 +14,6 @@
 ## Dashboard Preview
 
 ![Why & How](https://github.com/Ebubechukwu-IV/E-Commerce-Sales-Analysis/blob/38760bb21a9072ef1164a9e6149dbf2d162d3265/Why%20%26%20How.png)
-
-## Project Overview
-
-This project analyses a retail e-commerce dataset to uncover revenue trends, product performance, and market insights across four countries. It is the first project in my public data analytics portfolio, built as part of my transition from Warehouse Operations into Data Analytics.
-
-The analysis covers 360 orders, 40 products, and 115 active customers across the UK, US, Canada, and India — using Excel for data preparation and Power BI for interactive visualisation.
 
 ---
 
