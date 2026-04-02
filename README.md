@@ -9,9 +9,7 @@
 
 ## Dashboard Preview
 
-![Executive Summary](https://github.com/Ebubechukwu-IV/E-Commerce-Sales-Analysis/blob/38760bb21a9072ef1164a9e6149dbf2d162d3265/Why%20%26%20How.png)
-![Why & How](screenshots/why_and_how.png)
-![Drill Down](screenshots/drill_down.png)
+![Why & How](https://github.com/Ebubechukwu-IV/E-Commerce-Sales-Analysis/blob/38760bb21a9072ef1164a9e6149dbf2d162d3265/Why%20%26%20How.png)
 
 ## Project Overview
 
